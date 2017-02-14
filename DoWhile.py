@@ -30,7 +30,7 @@
 #         print("you guessed correctly")
 #         break
 
-# from decimal import Decimal as D
+# from <----random comment---->decimal import Decimal as D
 #
 # sum = D(0)
 #
