@@ -1,2 +1,2 @@
 # PythonCodes
-All the python practise codes are gold
+All the python practise codes are pure gold
